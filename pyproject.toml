@@ -1,0 +1,18 @@
+[project]
+name = "python_library_test_TL"
+version = "0.0.1"
+authors = [
+  { name="ThomLecha", email="hamster12@hotmail.fr" },
+]
+description = "A small example package that adds a function to display a chart"
+readme = "README.md"
+requires-python = ">=3.5"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/ThomLecha/PythonLibraryTest_TL"
+Issues = "https://github.com/ThomLecha/PythonLibraryTest_TL/issues"
